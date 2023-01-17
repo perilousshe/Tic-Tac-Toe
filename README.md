@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Game 
+Game in C language 
